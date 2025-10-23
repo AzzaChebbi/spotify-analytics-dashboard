@@ -16,13 +16,11 @@ The dashboard includes several insightful visualizations:
 - **Average Popularity by Artist** — Bar chart ranking artists by their average track popularity  
 - **Explicit Content Distribution** — Pie chart showing the proportion of explicit tracks
 
-![Dashboard1](https://github.com/user-attachments/assets/28e87a57-5d21-4361-966d-09acb950b5fd)
+<img width="1918" height="928" alt="Dashboard1" src="https://github.com/user-attachments/assets/dba0683e-fc03-4528-8529-a536dd8ead04" />
 
-![Dashboard2](https://github.com/user-attachments/assets/1bac0459-8356-4639-a241-76912cb6469c)
+<img width="1445" height="632" alt="Dashboard2" src="https://github.com/user-attachments/assets/9318ead8-f738-4fc8-96fb-3dd7f914fdbc" />
 
-![Dashboard3](https://github.com/user-attachments/assets/64da6d3b-af94-491a-a499-bd0674118909)
-
-![Dashboard4](https://github.com/user-attachments/assets/2803b2d2-8765-4e7c-abb5-5ee74be8668b)
+<img width="1892" height="894" alt="Dashboard3" src="https://github.com/user-attachments/assets/28fb5ca0-7f4e-4f74-a01d-ff16f6193661" />
 
 ## Usage
 
